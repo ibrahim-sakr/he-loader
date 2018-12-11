@@ -1,6 +1,6 @@
 {
   "name": "he-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GPL",
   "description": "manage and load various components of the app",
   "main": "dist/index.js",
